@@ -23,4 +23,8 @@
 
 <?php
     include_once __DIR__ . '/footer.php';
+
+    $script = '
+        <script src="build/js/tareas.js"></script>
+    '
 ?>

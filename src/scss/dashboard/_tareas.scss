@@ -6,5 +6,6 @@
     justify-content: center;
     .agregar-tarea{
         @include m.boton(v.$cyan, v.$blanco);
+        
     }
 }
